@@ -27,7 +27,7 @@ itsdangerous==1.1.0
 Jinja2==2.10
 jwt==0.5.4
 kombu==4.2.2
-lxml==4.2.5
+lxml==4.6.2
 MarkupSafe==1.1.0
 multidict==4.4.2
 pycparser==2.19
